@@ -1,7 +1,6 @@
 <div align="center" width="50">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hello" width="60%"/> <br>
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Workspace" width="40%"/><br>
 
 <details>
 <p><strong><summary>  Currently building & learning : </summary></strong></p>
