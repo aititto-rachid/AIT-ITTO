@@ -17,8 +17,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
-[![Gmail Badge](https://img.shields.io/badge/Email-Contact-grey?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-TaallamIA-red?style=flat&logo=youtube)](https://youtube.com/)
+[![Gmail Badge](https://img.shields.io/badge/Email-Contact-grey?style=flat&logo=gmail)](aitittor@gmail.com)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-TaallamIA-red?style=flat&logo=youtube)](https://www.youtube.com/@RachidAititto/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-YOUR_USERNAME-black?style=flat&logo=github)](https://github.com/aititto-rachid)
 
 </div>
