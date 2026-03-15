@@ -17,7 +17,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Email-Contact-grey?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-TaallamIA-red?style=flat&logo=youtube)](https://youtube.com/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-YOUR_USERNAME-black?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-YOUR_USERNAME-black?style=flat&logo=github)](https://github.com/aititto-rachid)
 
 </div>
 
